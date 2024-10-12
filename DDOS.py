@@ -8,7 +8,7 @@ site = input("enter your site url =>")
 thread_count = input("enter your thread =>") 
 ip = socket.gethostbyname(site) 
 UDP_PORT =80 
-MESSAGE = '369' 
+MESSAGE = 'Hi Fuck You!!!!!' 
 print("UDP target IP:", ip) 
 print("UDP target port:",UDP_PORT) 
 time.sleep(3) 
